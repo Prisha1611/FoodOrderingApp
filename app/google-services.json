@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393612721020",
+    "project_id": "foodapp-bcdbf",
+    "storage_bucket": "foodapp-bcdbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393612721020:android:0691f2928545e0e0b542f9",
+        "android_client_info": {
+          "package_name": "com.example.universityfoodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZxW3RdrDtcUbFLFxj5b4hSca5DsSd4Xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
